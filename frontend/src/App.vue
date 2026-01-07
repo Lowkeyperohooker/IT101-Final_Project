@@ -147,7 +147,7 @@ const products = reactive([
     name: "Nike HyperCharge Bottle", 
     price: 995, 
     category: "Accessories", 
-    image: "https://images.pexels.com/photos/4164761/pexels-photo-4164761.jpeg?auto=compress&cs=tinysrgb&w=600" 
+    image: "https://images.pexels.com/photos/1342529/pexels-photo-1342529.jpeg?auto=compress&cs=tinysrgb&w=600" 
   }
 ]);
 

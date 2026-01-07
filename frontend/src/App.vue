@@ -49,7 +49,7 @@ const products = reactive([
     name: "Nike Metcon 8", 
     price: 7550, 
     category: "Training", 
-    image: "https://images.pexels.com/photos/8472917/pexels-photo-8472917.jpeg?auto=compress&cs=tinysrgb&w=600" 
+    image: "https://images.pexels.com/photos/1407354/pexels-photo-1407354.jpeg?auto=compress&cs=tinysrgb&w=600" 
   },
   { 
     id: 5, 

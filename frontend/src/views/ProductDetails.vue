@@ -38,7 +38,7 @@ const goBack = () => {
         <div>
           <img 
             :src="product.image" 
-            class="w-full h-auto max-h-[600px] rounded-2xl shadow-xl object-cover object-center" 
+            class="w-full h-[400px] md:h-[450px] rounded-2xl shadow-xl object-cover object-center" 
             :alt="product.name"
           >
         </div>
